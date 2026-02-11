@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "f421d7a2-c032-4151-ada0-ac419b0605f5",
+			"database_name": "koloniden_db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
